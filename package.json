@@ -4,9 +4,24 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "dev": "nodemon --exec ts-node src/server.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "Artur Daniel",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@types/express": "github:types/express",
+    "@types/node": "^20.12.7",
+    "nodemon": "^3.1.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "pg": "^8.11.5",
+    "reflect-metadata": "^0.2.2",
+    "typeorm": "^0.3.20"
+  }
 }
