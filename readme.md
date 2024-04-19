@@ -26,6 +26,6 @@ npm run dev
 
  **Modelo Relacional do Banco**
 <div align="center">
-<img src="https://github.com/Arturstriker3/test-delbank/assets/59231364/eaa00b48-96f4-4b3d-84e5-64f50ffc31d7" width="auto" height="auto" />
+<img src="https://github.com/Arturstriker3/API-Node.js-TypeScript-TypeORM/assets/59231364/6f11ce23-aaad-4f32-bd30-39bef1d9ca9f" width="auto" height="auto" />
 </div>
 <br/>
